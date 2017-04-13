@@ -2,6 +2,10 @@
 
 Bootstrap HTML para criação de e-mail marketing procurando a utilização das melhores práticas de desenvolvimento.
 
+## Fontes
+
+O layout necessita de uma fonte específica? [Clique aqui](https://www.campaignmonitor.com/blog/email-marketing/2016/07/10-things-need-know-web-fonts-email-right-now/) e [aqui](https://www.campaignmonitor.com/blog/email-marketing/2012/12/using-web-fonts-in-email/) e veja tudo o que precisa saber sobre fontes em e-mails.
+
 ### Realização de testes
 1. Começar pelo [PutsMail](https://putsmail.com/) que envia um e-mail para vários endereços de uma só vez
 2. O [Mail Tester](http://www.mail-tester.com/) para a correção de dados
